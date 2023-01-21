@@ -32,6 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app que te ajuda a rastrear seus hábitos diários.
+- [Acesse o app através desse link, online](https://evans-costa.github.io/habits)
 
 ## 🔖 Layout
 
